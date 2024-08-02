@@ -1,0 +1,227 @@
+body {font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+.main-page-navigation-link{
+    color: #2e2f42;
+}
+
+.main-page-navigation .link:hover{
+    color: #404bbf;
+}
+.main-page-navigation .link:focus{
+    color: #404bbf;
+} 
+.page-title {
+    background-color: #2e2f42
+}
+.page-title .link:hover{
+    background-color: #404BBF; 
+}
+ 
+.page-title .link:focus{
+    background-color: #404BBF;
+}
+
+
+.main-page-navigation > a {
+    font-family: "Raleway", sans-serif;
+     font-weight: 700;
+     font-size: 18px;
+     line-height: 1.17;
+     letter-spacing: 0.03em; 
+     text-transform: uppercase;
+     color: #4d5ae5;
+    }
+
+
+.social-navigation  a {
+    font-weight: 500;
+    font-size: 16px; 
+    line-height: 1.5; 
+    letter-spacing: 0.02em; 
+    color: #2e2f42;
+}
+
+
+
+
+.main-page-contacts{
+    font-style: normal;
+   color: #434455;
+}   
+
+.social-contacts .link {
+    color: #434455;
+}
+.social-contacts {
+    color: #434455;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;}
+.social-contacts .link:hover{
+    color: #404bbf;
+}
+.social-contacts .link:focus {
+    color: #404bbf;
+}
+.page-title-main {
+    background-color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+
+}
+.page-title .link {
+    
+    background: rgba(77, 90, 229, 1);
+
+}
+.page-title .link :hover {
+    background: rgba(64, 75, 191, 1);
+
+}
+.page-title > button{
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #fff;
+background: rgba(77, 90, 229, 1);
+cursor: pointer;
+}
+
+.page-text-studio {
+    background-color: #F4F4FD;
+}
+.page-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+.page-text-paragraph {   font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #F4F4FD;
+    font-size: 16px;
+}
+.page-text h3 {
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+text-transform: capitalize;
+}
+.page-text p {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+background-color: #F4F4FD;
+font-size: 16px;
+}
+.employees {
+    background-color: #F4F4FD
+}
+.employees >h2 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.employees-main {
+    text-transform: capitalize;
+    background-color: #FFFFFF
+}
+.employees-paragraph {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #434455;
+    }
+.employees-managers {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #2e2f42; 
+    
+}
+.employees-photo {
+    background-color: #FFFFFF;
+}
+
+.page-apps-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+.page-apps-main-text {
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.page-apps-main-text-paragraph {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.page-underside {
+    background-color: #2e2f42;
+}
+.main-page-navigation-link-under{color: #f4f4fd;}
+.page-underside > a {
+
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.page-underside-paragraph{
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
