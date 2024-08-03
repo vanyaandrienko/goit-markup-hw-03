@@ -134,6 +134,7 @@ border-radius: 4px;
 
 .page-text-studio {
     background-color: #F4F4FD;
+    padding-top: 120px; padding-bottom: 120px;
 }
 .page-text {
     font-family: "Roboto", sans-serif;
