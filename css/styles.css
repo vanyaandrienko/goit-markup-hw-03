@@ -28,10 +28,9 @@ body {font-family: "Roboto", sans-serif;
 .page-title .link:focus{
     background-color: #404BBF;
 }
-.main-page-navigation {
-  
+.link-navigation {
+    border-bottom: 1px solid #e7e9fc;
 }
-
 .main-page-navigation > a {
     font-family: "Raleway", sans-serif;
      font-weight: 700;
