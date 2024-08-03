@@ -6,10 +6,11 @@ img {
     display: block;
 }
 .container { 
-    max-width: ;
-    padding-right: ; 
-    margin-left:  ;
-    margin-right: ; 
+    max-width: 1158px;
+    padding: right 15px; ; 
+    margin-left: 15px ;
+    margin: 0 auto; 
+    display: flex;
     }
 .main-page-navigation-link{
     color: #2e2f42;
@@ -42,7 +43,7 @@ img {
      letter-spacing: 0.03em; 
      text-transform: uppercase;
      color: #4d5ae5;
-     
+    
     }
 
 
