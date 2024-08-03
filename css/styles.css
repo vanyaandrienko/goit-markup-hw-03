@@ -22,7 +22,9 @@ body {font-family: "Roboto", sans-serif;
 .page-title .link:focus{
     background-color: #404BBF;
 }
-
+.main-page-navigation {
+  
+}
 
 .main-page-navigation > a {
     font-family: "Raleway", sans-serif;
@@ -32,6 +34,7 @@ body {font-family: "Roboto", sans-serif;
      letter-spacing: 0.03em; 
      text-transform: uppercase;
      color: #4d5ae5;
+     
     }
 
 
@@ -41,6 +44,7 @@ body {font-family: "Roboto", sans-serif;
     line-height: 1.5; 
     letter-spacing: 0.02em; 
     color: #2e2f42;
+    
 }
 
 
@@ -61,12 +65,17 @@ body {font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+
+}
 .social-contacts .link:hover{
     color: #404bbf;
 }
 .social-contacts .link:focus {
     color: #404bbf;
+}
+.page-title {
+    justify-content: center;
 }
 .page-title-main {
     background-color: #2e2f42;
@@ -205,6 +214,9 @@ color: #434455;
 
 .page-underside {
     background-color: #2e2f42;
+    padding-top: 100px; 
+    
+    padding-bottom: 100px;
 }
 .main-page-navigation-link-under{color: #f4f4fd;}
 .page-underside > a {
