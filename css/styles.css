@@ -246,6 +246,9 @@ color: #2e2f42;
     text-transform: capitalize;
     margin-bottom: 72px;
 }
+.page-apps-main-text {
+    margin-bottom: 8px;
+}
 .apps-card {
     display: flex;
     flex-wrap: wrap; 
@@ -262,6 +265,37 @@ color: #2e2f42;
     border-top: none; 
     margin-bottom: 8px;
 }
+.container-cahless-payment{
+    padding: 32px 16px ;
+    border: 1px solid #e7e9fc;
+    border-top: none; 
+    margin-bottom: 8px;
+}
+.container-meditation-app {
+    padding: 32px 16px ;
+    border: 1px solid #e7e9fc;
+    border-top: none; 
+    margin-bottom: 8px;
+}
+.container-taxi-service {
+    padding: 32px 16px ;
+    border: 1px solid #e7e9fc;
+    border-top: none; 
+    margin-bottom: 8px;
+}
+.container-screen-illustrations{
+    padding: 32px 16px ;
+    border: 1px solid #e7e9fc;
+    border-top: none; 
+    margin-bottom: 8px;
+}
+.container-online-courses {
+    padding: 32px 16px ;
+    border: 1px solid #e7e9fc;
+    border-top: none; 
+    margin-bottom: 8px;
+}
+
 .page-apps-main-text {
     font-family: "Roboto", sans-serif;
 font-weight: 500;
