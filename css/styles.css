@@ -220,6 +220,9 @@ color: #2e2f42;
     color: #2e2f42; 
     
 }
+.card {
+    padding-top: 32px; padding-bottom: 32px;
+}
 .employees-photo {
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4); 
