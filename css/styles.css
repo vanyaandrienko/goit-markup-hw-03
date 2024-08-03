@@ -2,6 +2,12 @@ body {font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
+.container { 
+    max-width: ;
+    padding-right: ; 
+    margin-left:  ;
+    margin-right: ; 
+    }
 .main-page-navigation-link{
     color: #2e2f42;
 }
