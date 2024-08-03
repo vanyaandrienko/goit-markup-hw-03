@@ -8,7 +8,7 @@ img {
 .container { 
     max-width: 1158px;
     padding-right: 15px; 
-    margin-left: 15px;
+    padding-left: 15px;
     margin: 0 auto; 
     display: flex;
     }
@@ -63,7 +63,10 @@ img {
     display: flex;
     gap: 40px;
 }
-
+.social-contacts {
+    display: flex;
+    gap: 40px;
+}
 
 .main-page-contacts{
     font-style: normal;
