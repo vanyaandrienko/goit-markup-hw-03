@@ -126,6 +126,10 @@ letter-spacing: 0.04em;
 color: #fff;
 background: rgba(77, 90, 229, 1);
 cursor: pointer;
+min-width: 169px;
+height: 56px;
+border: none;
+border-radius: 4px;
 }
 
 .page-text-studio {
