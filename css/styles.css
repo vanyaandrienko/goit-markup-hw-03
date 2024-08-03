@@ -93,7 +93,8 @@ img {
     color: #404bbf;
 }
 .page-title {
-    justify-content: center;
+    padding-top: 188px; 
+    padding-bottom: 188px;
 }
 .page-title-main {
     background-color: #2e2f42;
@@ -104,6 +105,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+max-width: 496px;
 
 }
 .page-title .link {
