@@ -57,7 +57,10 @@ img {
 }
 
 
-
+.main-page-contacts a {
+    display: flex;
+    gap: 40px;
+}
 
 .main-page-contacts{
     font-style: normal;
@@ -237,6 +240,8 @@ color: #434455;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .page-underside-paragraph{
     font-family: "Roboto", sans-serif;
