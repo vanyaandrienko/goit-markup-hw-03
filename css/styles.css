@@ -231,7 +231,10 @@ color: #2e2f42;
     width: calc((100% - 72px) / 4); 
     border-radius: 0px 0px 4px 4px; 
 }
-
+.page-apps {
+    padding-top: 120px; 
+    padding-bottom: 120px;
+}
 .page-apps-text {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
