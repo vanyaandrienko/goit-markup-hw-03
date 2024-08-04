@@ -125,16 +125,17 @@ line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
 background: rgba(77, 90, 229, 1);
-cursor: pointer;
 min-width: 169px;
 height: 56px;
 border: none;
 border-radius: 4px;
+cursor: pointer;
 }
 
 .page-text-studio {
     background-color: #F4F4FD;
-    padding-top: 120px; padding-bottom: 120px;
+    padding-top: 120px; 
+    padding-bottom: 120px;
 }
 .text {
     display: flex;
@@ -224,7 +225,8 @@ color: #2e2f42;
     
 }
 .card {
-    padding-top: 32px; padding-bottom: 32px;
+    padding-top: 32px; 
+    padding-bottom: 32px;
 }
 .employees-photo {
     background-color: #FFFFFF;
