@@ -1,3 +1,10 @@
+
+*,
+*::before,
+*::after 
+.visually-hidden {
+    display: none;
+}
 body {font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -92,8 +99,9 @@ img {
 .social-contacts .link:focus {
     color: #404bbf;
 }
-.page-title {
-padding: 188px 0 188px;
+.page-title .container {
+padding-top: 180px;
+padding-bottom: 180px;
 }
 .page-title-main {
     background-color: #2e2f42;
@@ -102,7 +110,7 @@ font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
-text-align: center;
+
 color: #fff;
 max-width: 496px;
 
@@ -129,6 +137,7 @@ height: 56px;
 border: none;
 border-radius: 4px;
 cursor: pointer;
+
 }
 
 
