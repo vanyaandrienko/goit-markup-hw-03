@@ -50,8 +50,11 @@ img {
 .page-title .link:focus{
     background-color: #404BBF;
 }
-.link-navigation {
+.link-navigation  {
     border-bottom: 1px solid #e7e9fc;
+    display: flex;
+    width: 1158px;
+    padding: 0 15px;
 }
 .main-page-navigation > a {
     font-family: "Raleway", sans-serif;
@@ -61,7 +64,8 @@ img {
      letter-spacing: 0.03em; 
      text-transform: uppercase;
      color: #4d5ae5;
-    margin-right: 76px
+    margin-right: 76px;
+    display: flex;
     }
 
     .main-page-navigation {
@@ -208,7 +212,7 @@ background-color: #F4F4FD;
 font-size: 16px;
 }
 .employees .container {
-    
+    text-align: center;
     padding-top: 120px; padding-bottom: 120px;
     background-color: #F4F4FD;
 }
