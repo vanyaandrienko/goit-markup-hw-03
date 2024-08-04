@@ -307,7 +307,7 @@ color: #2e2f42;
     row-gap: 48px;
 }
 .page-apps .container {
-    width: 1440px;
+   box-sizing: border-box;
 }
 .portfolio-card {
     width: calc((100% - 48px) / 3);
