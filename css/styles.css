@@ -331,6 +331,7 @@ color: #434455;
     display: inline;
     margin-bottom: 16px;
 }
+.block {display: inline-block;}
 .page-underside-paragraph{
     font-family: "Roboto", sans-serif;
 font-weight: 400;
