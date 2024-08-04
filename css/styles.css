@@ -2,9 +2,8 @@
 *,
 *::before,
 *::after 
-.visually-hidden {
-    visibility: hidden;
-}
+
+
 body {font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -99,9 +98,10 @@ img {
 .social-contacts .link:focus {
     color: #404bbf;
 }
-.page-title {
-padding-top: 180px;
-padding-bottom: 180px;
+.page-title{
+    padding-top: 188px;
+        padding-bottom: 188px;
+        
 }
 .page-title-main {
     background-color: #2e2f42;
