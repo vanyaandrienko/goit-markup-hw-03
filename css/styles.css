@@ -278,8 +278,9 @@ color: #2e2f42;
 .page-apps {
     padding-top: 120px; 
     padding-bottom: 120px;
-    
-
+}
+.page-apps .container{
+    width: 1158px;
 }
 .page-apps-text {
     font-family: "Roboto", sans-serif;
@@ -300,10 +301,11 @@ color: #2e2f42;
     flex-wrap: wrap; 
     column-gap: 24px;
     row-gap: 48px;
-    
+   
 }
 .page-apps-card {
     width: calc((100% - 48px) / 3) ;
+ 
 }
 
 
