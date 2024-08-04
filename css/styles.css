@@ -11,8 +11,21 @@ body {font-family: "Roboto", sans-serif;
 img {
     display: block;
 }
-.hidden {
-    visibility: visible;
+.visually-hidden{
+    .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            border: 0;
+            padding: 0;
+    outline: 0;
+        outline-offset: 0;
+            white-space: nowrap;
+            clip-path: inset(100%);
+            clip: rect(0 0 0 0);
+            overflow: hidden;
+        }
 }
 .container { 
     max-width: 1158px;
@@ -315,7 +328,7 @@ color: #434455;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    display: inline-block;
+    display: block;
     margin-bottom: 16px;
 }
 .page-underside-paragraph{
