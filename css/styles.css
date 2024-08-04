@@ -223,12 +223,15 @@ padding-top: 120px;
     padding-top: 120px; padding-bottom: 120px;
     background-color: #F4F4FD;
 }
-.employees > h2 {
-    font-family: "Roboto", sans-serif;
-font-weight: 700;
-font-size: 36px;
-line-height: 111%;
-letter-spacing: 0.02em;
+.employees  h2 {
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
 
 color: #2e2f42;
 
@@ -265,6 +268,7 @@ color: #2e2f42;
     margin-bottom: 8px;
     
 }
+
 .card {
     padding-top: 32px; 
     padding-bottom: 32px;
@@ -273,6 +277,10 @@ color: #2e2f42;
     
     width: calc((100% - 72px) / 4); 
     border-radius: 0px 0px 4px 4px; 
+}
+.page-apps .container {
+    width: 1128px;
+
 }
 .page-apps {
     padding-top: 120px; 
@@ -300,10 +308,11 @@ color: #2e2f42;
     flex-wrap: wrap; 
     column-gap: 24px;
     row-gap: 48px;
+    
    
 }
 .portfolio-card{
-    width: calc((100% - 48px) / 3);
+width: calc((100% - 48px) / 3);
 }
 
 
@@ -372,5 +381,17 @@ padding-right: 1050px;
 }
 .logo {display: inline-block;
     margin-bottom: 16px;
-
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        padding-left: 156px;
+            padding-right: 1050px;
 }
+
+
+
+
