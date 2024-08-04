@@ -12,7 +12,7 @@ img {
     display: block;
 }
 .hidden {
-    owerflow: visualli-hidden;
+    visibility: visible;
 }
 .container { 
     max-width: 1158px;
@@ -315,7 +315,8 @@ color: #434455;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .page-underside-paragraph{
     font-family: "Roboto", sans-serif;
