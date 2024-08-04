@@ -93,8 +93,7 @@ img {
     color: #404bbf;
 }
 .page-title {
-    padding-top: 188px; 
-    padding-bottom: 188px;
+padding: 188px 0 188px;
 }
 .page-title-main {
     background-color: #2e2f42;
@@ -137,6 +136,7 @@ cursor: pointer;
     background-color: #F4F4FD;
     padding-top: 120px; 
     padding-bottom: 120px;
+    
 }
 .text {
     display: flex;
