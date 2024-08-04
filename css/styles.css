@@ -3,7 +3,7 @@
 *::before,
 *::after 
 .visually-hidden {
-    display: none;
+    visibility: hidden;
 }
 body {font-family: "Roboto", sans-serif;
     color: #434455;
