@@ -2,10 +2,8 @@
 *,
 *::before,
 *::after 
-.container {
-    width: 1158px;
-    box-sizing: border-box;
-}
+
+
 
 body {font-family: "Roboto", sans-serif;
     color: #434455;
@@ -303,7 +301,7 @@ color: #2e2f42;
     row-gap: 48px;
    
 }
-.page-apps-card{
+.portfolio-card{
     width: calc((100% - 48px) / 3);
 }
 
