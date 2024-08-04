@@ -281,8 +281,8 @@ color: #2e2f42;
 .page-apps {
     padding-top: 120px; 
     padding-bottom: 120px;
-    width: calc((100% - 48px) / 3);
     
+
 }
 .page-apps-text {
     font-family: "Roboto", sans-serif;
@@ -303,11 +303,10 @@ color: #2e2f42;
     flex-wrap: wrap; 
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 48px) / 3);
+    
 }
   .page-apps-card {
-    width: calc((100% - 48px) / 3);
-
+width: calc((100% - 48px) / 3);
 }
 
 
@@ -316,6 +315,7 @@ color: #2e2f42;
     border: 1px solid #e7e9fc;
     border-top: none; 
     margin-bottom: 8px;
+    width: calc((100% - 48px) / 3);
 }
 
 .page-apps-main-text {
