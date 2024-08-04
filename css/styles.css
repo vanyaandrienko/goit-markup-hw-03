@@ -57,7 +57,7 @@ img {
         margin: 0 auto;
         border-bottom: 1px solid #e7e9fc;
 }
-.link-navigation a{
+.link-navigation {
     border-bottom: 1px solid #e7e9fc;
   
 }
@@ -307,7 +307,7 @@ color: #2e2f42;
     column-gap: 24px;
     row-gap: 48px;
 }
-.page-apps-card {
+ .page-apps .container .page-apps-card {
     width: calc((100% - 48px) / 3);
 
 }
@@ -357,8 +357,8 @@ color: #434455;
     color: #4d5ae5;
 display: inline-block;
 margin-bottom: 16px;
-padding-left: 156px;
-padding-right: 1169px;
+margin-left: 156px;
+margin-right: 1169px;
 }
 
 .page-underside-paragraph{
@@ -373,5 +373,6 @@ padding-left: 156px;
 padding-right: 1050px;
 }
 .logo {display: inline-block;
+    margin-bottom: 16px;
 
 }
