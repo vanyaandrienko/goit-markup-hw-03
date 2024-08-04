@@ -54,6 +54,8 @@ img {
     width: 1158px;
         padding: 0 15px;
         display: flex;
+        margin: 0 auto;
+        border-bottom: 1px solid #e7e9fc;
 }
 .link-navigation a {
     border-bottom: 1px solid #e7e9fc;
@@ -213,6 +215,10 @@ letter-spacing: 0.02em;
 color: #434455;
 background-color: #F4F4FD;
 font-size: 16px;
+}
+.employees {
+padding-top: 120px;
+    padding-bottom: 120px;
 }
 .employees .container {
     text-align: center;
