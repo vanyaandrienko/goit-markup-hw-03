@@ -320,7 +320,7 @@ color: #434455;
     padding-bottom: 100px;
 }
 .main-page-navigation-link-under{color: #f4f4fd;
-display: inline-block;
+
 }
 
 .page-underside .container .a {
@@ -331,7 +331,8 @@ display: inline-block;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-  
+display: inline-block;
+margin-bottom: 16px;
 }
 
 .page-underside-paragraph{
