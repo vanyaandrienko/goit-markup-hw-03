@@ -120,14 +120,9 @@ img {
     color: #404bbf;
 }
 
-.mail {
-    padding-left: 940px;
-    padding-right: 347px;
-}
-.phone {
-    padding-left: 1133px;
-    padding-right: 156px;
-}
+
+   
+
 .page-title{
     padding-top: 188px;
         padding-bottom: 188px;
@@ -307,7 +302,7 @@ color: #2e2f42;
     column-gap: 24px;
     row-gap: 48px;
 }
- .page-apps .container .page-apps-card {
+  .page-apps-card {
     width: calc((100% - 48px) / 3);
 
 }
