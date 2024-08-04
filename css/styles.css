@@ -3,7 +3,9 @@
 *::before,
 *::after 
 
-
+.container{
+    box-sizing: border border-box;
+}
 
 body {font-family: "Roboto", sans-serif;
     color: #434455;
