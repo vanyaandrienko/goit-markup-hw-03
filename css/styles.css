@@ -344,6 +344,8 @@ color: #434455;
     color: #4d5ae5;
 display: inline-block;
 margin-bottom: 16px;
+padding-left: 156px;
+padding-right: 1169px;
 }
 
 .page-underside-paragraph{
@@ -354,4 +356,6 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 max-width: 264px;
+padding-left: 156px;
+padding-right: 1050px;
 }
