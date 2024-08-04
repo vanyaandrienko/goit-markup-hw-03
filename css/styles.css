@@ -117,7 +117,7 @@ max-width: 496px;
     background: rgba(64, 75, 191, 1);
 
 }
-.page-title > button{
+.page-title  button{
     font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
@@ -131,13 +131,7 @@ border: none;
 border-radius: 4px;
 cursor: pointer;
 }
-.main-button {
-    min-width: 169px;
-        height: 56px;
-        border: none;
-        border-radius: 4px;
-        cursor: pointer;
-}
+
 
 .page-text-studio {
     background-color: #F4F4FD;
