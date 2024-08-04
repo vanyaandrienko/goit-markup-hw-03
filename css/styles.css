@@ -310,7 +310,7 @@ color: #2e2f42;
     
    
 }
-.apps-card .portfolio-card{
+.apps-card >li {
 width: calc((100% - 48px) / 3);
 }
 
