@@ -1,11 +1,11 @@
 
 *,
 *::before,
-*::after 
+*::after {
+  box-sizing: border-box;
+} 
 
-.container{
-    box-sizing: border border-box;
-}
+
 
 body {font-family: "Roboto", sans-serif;
     color: #434455;
