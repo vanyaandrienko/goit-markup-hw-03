@@ -302,7 +302,7 @@ color: #2e2f42;
     row-gap: 48px;
    
 }
-.page-apps-card {
+.apps-style {
     width: calc((100%-48px)/3);
 }
 
