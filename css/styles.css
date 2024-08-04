@@ -4,6 +4,7 @@
 *::after 
 .container {
     width: 1158px;
+    box-sizing: border-box;
 }
 
 body {font-family: "Roboto", sans-serif;
@@ -303,7 +304,7 @@ color: #2e2f42;
    
 }
 .page-apps-card{
-    width: calc((100%-48px)/3);
+    width: calc((100% - 48px) / 3);
 }
 
 
@@ -315,7 +316,7 @@ color: #2e2f42;
     border-right: 1px solid #e7e9fc;;
     border-top: none ; 
     margin-bottom: 8px ;
- 
+ width: 360px;
 }
 
 .page-apps-main-text {
