@@ -314,7 +314,7 @@ color: #2e2f42;
   margin:  0 auto;
 }
 .page-apps .container li {
-    width: calc((100%-48px) / 3);
+    width: calc((100% - 48px) / 3);
 }
 .page-apps .container {
     width: 1158px;
