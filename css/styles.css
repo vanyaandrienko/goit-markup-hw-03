@@ -311,12 +311,17 @@ color: #2e2f42;
     flex-wrap: wrap; 
     column-gap: 24px;
     row-gap: 48px;
-  
+  margin:  0 auto;
 }
-.portfolio-card {
-    width: calc((100% - 48px) / 3);
+.page-apps .container li {
+    width: calc((100%-48px) / 3);
 }
-
+.page-apps .container {
+    width: 1158px;
+        padding: 0 15px;
+        display: flex;
+        margin: 0 auto;
+}
 
 .container-app {
     padding: 32px 16px ;
