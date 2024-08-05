@@ -285,6 +285,11 @@ color: #2e2f42;
 .page-apps {
     padding-top: 120px; 
     padding-bottom: 120px;
+    padding-left: 0;
+    
+    margin: 0 auto;
+    
+
 }
 
 
@@ -307,8 +312,8 @@ color: #2e2f42;
     flex-wrap: wrap; 
     column-gap: 24px;
     row-gap: 48px;
-    padding-left: 0 auto;
-    padding-right: 0 auto;
+    padding-left: 0;
+    
     margin: 0 auto;
 }
 .portfolio-card {
