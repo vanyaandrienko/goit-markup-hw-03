@@ -315,7 +315,7 @@ color: #2e2f42;
 }
 .page-apps .container {
    
-   padding-left: 0;
+   padding-left: 0 auto;
    margin: 0 auto;
 }
 
