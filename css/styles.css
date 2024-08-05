@@ -307,16 +307,12 @@ color: #2e2f42;
     flex-wrap: wrap; 
     column-gap: 24px;
     row-gap: 48px;
-    padding-left: 0;
+    padding-left: 0 auto;
+    padding-right: 0 auto;
     margin: 0 auto;
 }
 .portfolio-card {
     width: calc((100% - 48px) / 3);
-}
-.page-apps .container {
-   
-   padding-left: 0 auto;
-   margin: 0 auto;
 }
 
 
