@@ -282,10 +282,12 @@ color: #2e2f42;
 .page-apps {
     padding-top: 120px; 
     padding-bottom: 120px;
-   
 }
 
-
+.page-apps-container {
+    padding-left: 0;
+    margin: 0;
+}
 .page-apps-text {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
