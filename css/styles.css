@@ -308,7 +308,7 @@ color: #2e2f42;
     column-gap: 24px;
     row-gap: 48px;
     padding-left: 0;
-    margin: 0;
+    margin: 0 auto;
 }
 .portfolio-card {
     width: calc((100% - 48px) / 3);
