@@ -4,8 +4,33 @@
 *::after {
 
 }
-
-
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.container{
+    width: 1158px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+.link-navigation .container a {
+    text-decoration: none;
+}
 
 body {font-family: "Roboto", sans-serif;
     color: #434455;
@@ -79,6 +104,7 @@ img {
     .main-page-navigation {
         display: flex;
         align-items: center;
+        margin-right: auto;
     }
 .social-navigation  a {
     font-weight: 500;
@@ -88,6 +114,7 @@ img {
     color: #2e2f42;
     padding-top: 24px; 
      padding-bottom: 24px;
+     display: block;
 }
 .social-navigation {
     display: flex;
@@ -138,8 +165,8 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 max-width: 496px;
-padding-right: 472px;
-padding-left: 472px;
+padding-right: auto;
+padding-left: auto;
 }
 .page-title .link {
     
@@ -164,8 +191,8 @@ border: none;
 border-radius: 4px;
 cursor: pointer;
 display: block;
-margin-left: 636px;
-margin-right: 635px;
+margin-left: auto;
+margin-right: auto;
 }
 
 
@@ -222,11 +249,12 @@ font-size: 16px;
 .employees {
 padding-top: 120px;
     padding-bottom: 120px;
+    background-color: #F4F4FD;
 }
 .employees .container {
     text-align: center;
     padding-top: 120px; padding-bottom: 120px;
-    background-color: #F4F4FD;
+    
 }
 .employees  h2 {
 font-family: "Roboto", sans-serif;
@@ -289,6 +317,7 @@ color: #2e2f42;
 .page-apps {
     padding-top: 120px; 
     padding-bottom: 120px;
+    background-color: #F4F4FD;
 }
 
 
@@ -319,7 +348,7 @@ color: #2e2f42;
 .page-apps .container {
     width: 1158px;
         padding: 0 15px;
-        display: flex;
+        
         margin: 0 auto;
 }
 
@@ -329,8 +358,7 @@ color: #2e2f42;
     border-left: 1px solid #e7e9fc; 
     border-right: 1px solid #e7e9fc;
     border-top: none ; 
-    margin-bottom: 8px ;
- width: 360px;
+ 
 }
 
 .page-apps-main-text {
