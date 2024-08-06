@@ -105,6 +105,7 @@ img {
         display: flex;
         align-items: center;
         margin-right: auto;
+
     }
 .social-navigation  a {
     font-weight: 500;
@@ -142,6 +143,8 @@ img {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    padding-top: 24px;
+    padding-bottom: 24px;
 
 }
 .social-contacts .link:hover{
@@ -166,9 +169,9 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 color: #fff;
 max-width: 496px;
-padding-right: auto;
-padding-left: auto;
-
+margin: auto;
+margin-left: auto;
+text-align: center;
 }
 .page-title .link {
     
@@ -319,7 +322,7 @@ color: #2e2f42;
 .page-apps {
     padding-top: 120px; 
     padding-bottom: 120px;
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 
@@ -402,6 +405,7 @@ display: inline-block;
 margin-bottom: 16px;
 margin-left: auto;
 margin-right: auto;
+text-decoration: none;
 }
 
 .page-underside-paragraph{
@@ -427,6 +431,7 @@ padding-right: auto;
         color: #4d5ae5;
         padding-left: auto;
             padding-right: auto;
+            text-decoration: none;
 }
 
 
